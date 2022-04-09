@@ -4,11 +4,11 @@
 The purpose of this assignment is to use a machine learning model to predict the type of fuel a car from a used car database will use. By using data from www.cardekho.com, we will determine the fuel type of a used car sold in India. By predicting whether a car will be diesel, petrol, or other, we can observe what the fuel types of different vehicles are and whether it will affect their numbers in the future.  
 
 ## Tablueau 
-The link to our Tableau Public [dashboard](https://public.tableau.com/app/profile/winny8874/viz/Used_Car_Fuel_Types_Dashboard/Summary_Dashboard?publish=yes) can be found here.
+The link to the Tableau Public [dashboard](https://public.tableau.com/app/profile/winny8874/viz/Used_Car_Fuel_Types_Dashboard/Summary_Dashboard?publish=yes) can be found here.
 
 
 ## Data Analysis Phase
-During our analysis, we made a couple of observations from the car_clean.csv file:
+During the analysis, a couple of observations are from the car_clean.csv file:
 
 ![2_Count_by_Fuel_Type_Pie](https://github.com/Itgotworse26/Used_Cars_Fuel_Types/blob/Alvin_Triangle_Machine_Learning/Resources/2_Count_by_Fuel_Type_Pie.png)
 
