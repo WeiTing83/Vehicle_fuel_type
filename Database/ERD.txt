@@ -1,0 +1,22 @@
+cars_details
+-
+car_id varchar pk
+name varchar
+year int
+selling_price int
+fuel varchar
+seller_type varchar
+seats int
+
+
+other_cars_details
+-
+car_id varchar pk fk - cars_details.car_id
+name varchar
+km_driven int
+transmission varchar
+owner varchar	
+mileage varchar
+engine varchar
+max_power varchar
+torque varchar
