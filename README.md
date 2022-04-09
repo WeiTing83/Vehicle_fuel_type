@@ -10,8 +10,6 @@ The link to our Tableau Public [story](https://public.tableau.com/views/Used_Car
 ## Data Analysis Phase
 During our analysis, we made a couple of observations from the car_clean.csv file:
 
-![1_Count_by_Fuel_Type](https://github.com/Itgotworse26/Used_Cars_Fuel_Types/blob/Alvin_Triangle_Machine_Learning/Resources/1_Count_by_Fuel_Type.png)
-
 ![2_Count_by_Fuel_Type_Pie](https://github.com/Itgotworse26/Used_Cars_Fuel_Types/blob/Alvin_Triangle_Machine_Learning/Resources/2_Count_by_Fuel_Type_Pie.png)
 
 * Diesel cars are the most commonly sold on cardekho, followed by petrol, and then other.
@@ -19,25 +17,15 @@ During our analysis, we made a couple of observations from the car_clean.csv fil
 
 ![3_Mileage_by_Fuel_Type](https://github.com/Itgotworse26/Used_Cars_Fuel_Types/blob/Alvin_Triangle_Machine_Learning/Resources/3_Mileage_by_Fuel_Type.png)
 
-* A petrol car has the best mileage while the low end mileage is shared by a diesel and petrol vehicle.
-
-
-![4_Median_Mileage_by_Fuel_Type](https://github.com/Itgotworse26/Used_Cars_Fuel_Types/blob/Alvin_Triangle_Machine_Learning/Resources/4_Median_Mileage_by_Fuel_Type.png)
-
-* Other fuel types have the best median mileage while petrol cars have the worst median mileage.
-
+* Other fuel type has highest efficiency. Petrol fuel type is lowest efficiency.
 
 ![5_Selling_Price_by_Fuel_Type](https://github.com/Itgotworse26/Used_Cars_Fuel_Types/blob/Alvin_Triangle_Machine_Learning/Resources/5_Selling_Price_by_Fuel_Type.png)
+
+* Selling price : Diesel > Petrl > Other fuel type
 
 ![6_Selling_Price_vs._Year_and_Fuel_Types](https://github.com/Itgotworse26/Used_Cars_Fuel_Types/blob/Alvin_Triangle_Machine_Learning/Resources/6_Selling_Price_vs._Year_and_Fuel_Types.png)
 
 * A petrol car sold for the most money while a diesel car sold for the least money.
-
-
-![7_Median_Selling_Price_by_Fuel_Type](https://github.com/Itgotworse26/Used_Cars_Fuel_Types/blob/Alvin_Triangle_Machine_Learning/Resources/7_Median_Selling_Price_by_Fuel_Type.png)
-
-* Diesel cars have the best median selling price while petrol cars have the worst median mileage.
-
 
 ![8_Fuel_Types_by_Year](https://github.com/Itgotworse26/Used_Cars_Fuel_Types/blob/Alvin_Triangle_Machine_Learning/Resources/8_Fuel_Types_by_Year.png)
 
